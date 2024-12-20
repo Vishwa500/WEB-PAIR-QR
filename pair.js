@@ -11,14 +11,14 @@ const MESSAGE = process.env.MESSAGE || `
 https://github.com/GuhailTechInfo/ULTRA-MD
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/GlobalBotInc
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://wa.me/94765684096
+https://whatsapp.com/channel/009VagJIAr3bbVBCpEkAM07
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+https://youtube.com/MICKEY-MD
 
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+*MICKEY-MD-WHATTSAPP-BOT* 🥀
 `;
 
 const { upload } = require('./mega');
